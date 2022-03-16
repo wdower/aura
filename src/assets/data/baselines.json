@@ -31,21 +31,6 @@
       "gitHash": "2000fb9978a92b81739c4db661dae356dd5d5918"
     },
     {
-      "shortName": "Red Hat 8 STIG",
-      "longName": "Red Hat 8 STIG",
-      "link": "https://gitlab.dsolab.io/scv-content/inspec/operating-systems/redhat-enterprise-linux-8-stig-baseline",
-      "platform_name": "InSpec",
-      "platform_img": "inspec-blue-back-border.svg",
-      "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
-      "sponsor_link": "https://www.disa.mil/",
-      "category": [
-        "Operating Systems"
-      ],
-      "gitHash": "0"
-    },
-    {
       "shortName": "Red Hat CVE Scan",
       "longName": "Red Hat CVE Vulnerability Scan",
       "link": "https://github.com/CMSgov/redhat-enterprise-linux-cve-vulnerability-scan-baseline",
@@ -269,21 +254,6 @@
         "Databases"
       ],
       "gitHash": "8d5d86144c15fa7df9d8afa34af7f0ab136f7091"
-    },
-    {
-      "shortName": "Oracle Database 19c CIS",
-      "longName": "Oracle Database 19c CIS",
-      "link": "https://gitlab.dsolab.io/scv-content/inspec/oracle/oracle-database-19c-cis-baseline/-/tree/master",
-      "platform_name": "InSpec",
-      "platform_img": "inspec-blue-back-border.svg",
-      "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
-      "sponsor_link": "https://www.disa.mil/",
-      "category": [
-        "Databases"
-      ],
-      "gitHash": "0"
     },
     {
       "shortName": "AWS RDS MySQL 5.7 CIS",
@@ -601,21 +571,6 @@
       "gitHash": "b4af1143ace12739bb52f1aa2a4b832ebcde5e40"
     },
     {
-      "shortName": "Tomcat 9 STIG",
-      "longName": "Apache Tomcat 9 STIG",
-      "link": "https://gitlab.dsolab.io/scv-content/inspec/apache/tomcat_9.x",
-      "platform_name": "InSpec",
-      "platform_img": "inspec-blue-back-border.svg",
-      "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
-      "sponsor_link": "https://www.disa.mil/",
-      "category": [
-        "Web Servers"
-      ],
-      "gitHash": "0"
-    },
-    {
       "shortName": "Kubernetes CIS",
       "longName": "Kubernetes CIS",
       "link": "https://github.com/mitre/kubernetes-cis-baseline",
@@ -629,66 +584,6 @@
         "Virtual Platforms"
       ],
       "gitHash": "f820e6c9f3f165ffd3150fb2cd0d7d065a404023"
-    },
-    {
-      "shortName": "Kubernetes Cluster STIG",
-      "longName": "Kubernetes Cluster STIG",
-      "link": "https://gitlab.dsolab.io/scv-content/inspec/kubernetes/baselines/k8s-cluster-stig-baseline",
-      "platform_name": "InSpec",
-      "platform_img": "inspec-blue-back-border.svg",
-      "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
-      "sponsor_link": "https://www.disa.mil/",
-      "category": [
-        "Virtual Platforms"
-      ],
-      "gitHash": "0"
-    },
-    {
-      "shortName": "Kubernetes Node STIG",
-      "longName": "Kubernetes Node STIG",
-      "link": "https://gitlab.dsolab.io/scv-content/inspec/kubernetes/baselines/k8s-node-stig-baseline",
-      "platform_name": "InSpec",
-      "platform_img": "inspec-blue-back-border.svg",
-      "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
-      "sponsor_link": "https://www.disa.mil/",
-      "category": [
-        "Virtual Platforms"
-      ],
-      "gitHash": "0"
-    },
-    {
-      "shortName": "K3S Node STIG",
-      "longName": "K3S Node STIG",
-      "link": "https://gitlab.dsolab.io/scv-content/inspec/kubernetes/k3s/k3s-node-stig-baseline",
-      "platform_name": "InSpec",
-      "platform_img": "inspec-blue-back-border.svg",
-      "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
-      "sponsor_link": "https://www.disa.mil/",
-      "category": [
-        "Virtual Platforms"
-      ],
-      "gitHash": "0"
-    },
-    {
-      "shortName": "K3S Cluster STIG",
-      "longName": "K3S Cluster STIG",
-      "link": "https://gitlab.dsolab.io/scv-content/inspec/kubernetes/k3s/k3s-cluster-stig-baseline",
-      "platform_name": "InSpec",
-      "platform_img": "inspec-blue-back-border.svg",
-      "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
-      "sponsor_link": "https://www.disa.mil/",
-      "category": [
-        "Virtual Platforms"
-      ],
-      "gitHash": "0"
     },
     {
       "shortName": "Apache Server 2.2 STIG",
@@ -719,36 +614,6 @@
         "Web Servers"
       ],
       "gitHash": "62da29b74b831de8b984a439df8aa88bc1edfa51"
-    },
-    {
-      "shortName": "Apache Server 2.4 STIG",
-      "longName": "Apache Server 2.4 STIG",
-      "link": "https://gitlab.dsolab.io/scv-content/inspec/apache/httpd_2.4x_server",
-      "platform_name": "InSpec",
-      "platform_img": "inspec-blue-back-border.svg",
-      "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
-      "sponsor_link": "https://www.disa.mil/",
-      "category": [
-        "Web Servers"
-      ],
-      "gitHash": "0"
-    },
-    {
-      "shortName": "Apache Site 2.4 STIG",
-      "longName": "Apache Site 2.4 STIG",
-      "link": "https://gitlab.dsolab.io/scv-content/inspec/apache/httpd_2.4x_site",
-      "platform_name": "InSpec",
-      "platform_img": "inspec-blue-back-border.svg",
-      "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
-      "sponsor_link": "https://www.disa.mil/",
-      "category": [
-        "Web Servers"
-      ],
-      "gitHash": "0"
     },
     {
       "shortName": "AWS RDS Best Practices Benchmark",
