@@ -8,10 +8,8 @@
         {{ topic.sectionHeader }}
       </p>
     </v-row>
-    <v-row
-      align="center"
-      justify="center"
-      v-if="topic.sectionDesc"
+    <!-- eslint-disable-next-line vue/no-use-v-if-with-v-for -->
+    <v-row align="center" justify="center" v-if="topic.sectionDesc"
       v-for="(item, i) in topic.sectionDesc"
       :key="i">
       <span class="google-font pa-2" v-html="topic.sectionDesc[i]"></span>
@@ -58,6 +56,7 @@
 </template>
 
 <script>
+  /* eslint-disable */
   import wwdBasicCard from "@/components/home/wwdComponents/wwdBasicCard.vue";
   import Chevrons from "@/components/home/wwdComponents/Chevrons.vue";
   export default {
