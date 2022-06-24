@@ -196,6 +196,23 @@
           "img_height": 100
         },
         {
+          "name": "emasser_client",
+          "link": "",
+          "desc": "Repository that provides libraries in Ruby and TypeScript for working with the eMASS REST API in your own tools",
+          "icon": "",
+          "png" : "emass",
+          "png_dark" : "emass_dark",
+          "app_link": "",
+          "app_svg": "app",
+          "github_link": "https://github.com/mitre/emass_client",
+          "doc_link" : "https://mitre.github.io/emass_client/",
+          "svg": "",
+          "tools": "",
+          "border_color": "purple",
+          "img_width": 200,
+          "img_height": 100
+        },
+        {
           "name": "eMASS Checklist Updater",
           "link": "",
           "desc": "Tool to translate findings from older to newer versions of an eMASS Checklist",

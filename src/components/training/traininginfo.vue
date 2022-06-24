@@ -1,6 +1,6 @@
 <template>
   <v-container fluid>
-    <RSVPBlock class="mt-2" />
+    <!-- <RSVPBlock class="mt-2" /> -->
     <v-row
       align="center"
       justify="center"
