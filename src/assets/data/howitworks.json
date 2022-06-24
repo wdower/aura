@@ -160,11 +160,11 @@
               "router_link" : "/validate"
             },
             {
-              "title": "Manual Attestation",
+              "title": "saf attest",
               "subtitle": [
                 {
                   "type": "text",
-                  "contents": "saf cli utility for adding manual attestation via interviews and examination to security scan output"
+                  "contents": "Add manual attestation (collected via interviews and examination) to security scan output"
                 }
               ],
               "link" : "https://saf-cli.mitre.org/#attest"
