@@ -198,7 +198,7 @@
         {
           "name": "emasser_client",
           "link": "",
-          "desc": "Repository that provides libraries in Ruby and TypeScript for working with the eMASS REST API in your own tools",
+          "desc": "Repository that provides libraries for working with the eMASS REST API in your own tools (Ruby gem and Typescript package currently available)",
           "icon": "",
           "png" : "emass",
           "png_dark" : "emass_dark",
