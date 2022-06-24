@@ -78,6 +78,10 @@
           "github_link": "https://github.com/mitre/saf",
           "svg": "",
           "tools": "",
+          "shields" : [
+            "https://img.shields.io/github/v/tag/mitre/saf?label=version",
+            "https://img.shields.io/docker/pulls/mitre/saf?label=docker%20hub%20pulls"
+          ],
           "border_color": "blue"
         },
         {
@@ -155,8 +159,7 @@
           "svg": "",
           "tools": "",
           "shields": [
-            "https://img.shields.io/github/v/release/mitre/serverless-inspec-lambda?label=version",
-            "https://img.shields.io/github/downloads/mitre/serverless-inspec-lambda/total?label=github%20downloads"
+            "https://img.shields.io/github/v/release/mitre/serverless-inspec-lambda?label=version"
           ],
           "border_color": "#4783B2"
         },
@@ -173,8 +176,7 @@
           "svg": "",
           "tools": "",
           "shields": [
-            "https://img.shields.io/github/v/release/mitre/serverless-heimdall-pusher-lambda?label=version",
-            "https://img.shields.io/github/downloads/mitre/serverless-heimdall-pusher-lambda/total?label=github%20downloads"
+            "https://img.shields.io/github/v/release/mitre/serverless-heimdall-pusher-lambda?label=version"
           ],
           "border_color": "#4783B2"
         },
@@ -191,6 +193,10 @@
           "github_link": "https://github.com/mitre/emasser",
           "svg": "",
           "tools": "",
+          "shields" : [
+            "https://img.shields.io/github/v/release/mitre/emasser?label=version",
+            "https://img.shields.io/gem/dt/emasser?label=gem%20downloads"
+          ],
           "border_color": "purple",
           "img_width": 200,
           "img_height": 100
@@ -208,6 +214,11 @@
           "doc_link" : "https://mitre.github.io/emass_client/",
           "svg": "",
           "tools": "",
+          "shields" : [
+            "https://img.shields.io/github/v/release/mitre/emass_client?label=version",
+            "https://img.shields.io/gem/dt/emass_client?label=gem%20downloads",
+            "https://img.shields.io/npm/dt/emass_client?label=npm%20downloads"
+          ],
           "border_color": "purple",
           "img_width": 200,
           "img_height": 100
