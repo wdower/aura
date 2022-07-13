@@ -52,9 +52,9 @@
           "link": "https://mitre-inspec-advanced-developer.netlify.com/"
         },
         {
-          "name": "InSpec Tools and Utilization",
-          "desc": "Guide to installation of InSpec Tools",
-          "link": "https://mitre.github.io/inspec_tools/"
+          "name": "SAF CLI",
+          "desc": "Guide to installation of SAF CLI",
+          "link": "https://saf-cli.mitre.org/"
         }
       ]
     },
