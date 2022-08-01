@@ -254,6 +254,18 @@
           "svg": "",
           "tools": "",
           "border_color": "red"
+        },
+        {
+          "name": "Benchmark Generator",
+          "link": "",
+          "desc": "Generates complex output from an XCCDF file. Used to generate initial project files for automation tools in various formats.",
+          "icon": "",
+          "png" : "ansible-lockdown",
+          "app_svg": "app",
+          "github_link": "https://github.com/ansible-lockdown/Benchmark-Generator",
+          "svg": "",
+          "tools": "",
+          "border_color": "red"
         }
       ]
     }
