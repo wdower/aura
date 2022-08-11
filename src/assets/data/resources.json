@@ -11,6 +11,11 @@
         }
       ]
     },
+    { 
+      "name": "SAF Tooling at a Glance",
+      "desc": "The SAF is a framework, not one tool. So, to figure out what tools you need in your environment, take a look at this diagram. The SAF helps piece all of this together. For more information getting tools into your environment look more at InSpec, SAF-CLI, and Heimdall.",
+      "image": "SAF_Tooling_Security_Validation_Lifecycle.png" 
+    },
     {
       "name": "Mature DevSecOps Best Practices",
       "desc": "DevSecOps is a software development framework that stresses automation and rapid user feedback to deliver quality, secure software quickly. A DevSecOps pipeline is a collection of tools and practices that can automate as much of development as possible, from testing to change management to deployment.",
