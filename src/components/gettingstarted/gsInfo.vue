@@ -1,9 +1,14 @@
 <template>
   <v-container fluid class="pa-2">
     <div v-for="item in resources.items" :key="item.name">
-      <p class="mb-2 wrap-list-text">
+      <a :href="'#' + item.tag">
+        {{ item.name }}
+      </a>
+    </div>
+    <div v-for="item in resources.items" :key="item.name">
+      <h2 class="mb-2 wrap-list-text anchor" :id="item.tag">
         <b>{{ item.name }}</b>
-      </p>
+      </h2>
       <p flat class="my-2">{{ item.desc }}</p>
       <p
         flat
@@ -57,5 +62,8 @@
     hyphens: none;
     font-size: 150%;
     color: #1a73e8;
+  }
+  .anchor {
+    padding-top: 1em;
   }
 </style>

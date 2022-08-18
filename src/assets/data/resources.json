@@ -2,22 +2,40 @@
   "items": [
     {
       "name": "Overview",
+      "tag": "overview",
       "desc": "See here for a one-page overview of how to use the MITRE SAF to help developers, assessors, and operations teams automate security in their current processes.",
       "values" : [
         {
           "name" : "How To Use The MITRE SAF",
           "desc" : "",
           "download_link" : "How to Use the MITRE SAF.pdf"
+        },
+        {
+          "name" : "Getting Started With InSpec",
+          "desc" : "",
+          "internal_link" : "inspec"
+        },
+        {
+          "name" : "SAF-CLI",
+          "desc" : "",
+          "internal_link" : "inspec"
+        },
+        {
+          "name" : "How To Use The MITRE SAF",
+          "desc" : "",
+          "internal_link" : "inspec"
         }
       ]
     },
     { 
       "name": "SAF Tooling at a Glance",
+      "tag": "tools",
       "desc": "The SAF is a framework, not one tool. So, to figure out what tools you need in your environment, take a look at this diagram. The SAF helps piece all of this together. For more information getting tools into your environment look more at InSpec, SAF-CLI, and Heimdall.",
-      "image": "SAF_Tooling_Security_Validation_Lifecycle.png" 
+      "image": "SAF_Tools_Security_Validation.png" 
     },
     {
       "name": "Mature DevSecOps Best Practices",
+      "tag": "dso",
       "desc": "DevSecOps is a software development framework that stresses automation and rapid user feedback to deliver quality, secure software quickly. A DevSecOps pipeline is a collection of tools and practices that can automate as much of development as possible, from testing to change management to deployment.",
       "values" : [
         {
@@ -29,6 +47,7 @@
     },
     {
       "name": "InSpec",
+      "tag" : "inspec",
       "desc": "InSpec is a free and open-source Chef framework for testing and auditing applications and infrastructure. InSpec is designed to integrate very easily into existing DevOps pipelines. MITRE has partnered with the open-source community to create a growing number of baseline testing profiles to make it easy for developers to jump right in.",
       "values": [
         {
@@ -65,6 +84,7 @@
     },
     { 
       "name": "How is InSpec deployed?",
+      "tag": "deploy",
       "desc": "It is intended and recommended that InSpec be installed on a \"runner\" host (such as a DevOps orchestration server, an administrative management system, or a developer's workstation/laptop) and run against the target remotely. However, InSpec may be deployed in various ways depending on the needs of the user:",
       "image": "inspec-runner.png" 
     }
