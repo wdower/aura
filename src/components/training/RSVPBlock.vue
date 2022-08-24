@@ -1,33 +1,30 @@
 <template>
   <div>
-    <h2 class="mb-2">RSVP – InSpec profile developer training for May/June 2022!</h2>
+    <h2 class="mb-2">RSVP – SAF training for September 2022!</h2>
     <p >
-      Sponsored by CMS under the
-      <a href="https://saf.cms.gov" target="_blank"
-        >CMS Security Automation Framework</a
-      >, we’re happy to announce plans to again provide training to developers
-      interested in learning to create and maintain InSpec profiles.
+      We’re happy to announce plans to provide training to SAF Users and Developers. 
+      These are free, on-line virtual, hands-on, instructor-led 1-2 day classes.
     </p>
     <p >
-      InSpec profiles are a core tool in establishing tailored, transparent,
-      open-source community-based automated security testing content.
-    </p>
-    <p >
-      These are free, on-line virtual, hands-on, instructor-led 2-day classes.
-    </p>
-    <p >
-      The
+      Sponsored by MDA, the
       <a :href="communityData.trainingSiteBasic" target="_blank"
-        >base introductory InSpec developer class</a
+        >Beginner Security Automation Developer Class</a
       >
-      will again be offered on May 24-25, 2022 (9am-4pm both days) (12 CPE)
+      will again be offered on September 15-16, 2022 (9am-4pm both days) (12 CPE)
     </p>
     <p >
-      The
+      Sponsored by MDA, the
       <a :href="communityData.trainingSiteAdvanced" target="_blank"
-        >follow-on Advanced InSpec developer class</a
+        >follow-on Advanced Security Automation Developer Class</a
       >
-      will again be offered on June 14-15, 2022 (9am-4pm both days) (12 CPE)
+      will again be offered on September 29-30, 2022 (9am-4pm both days) (12 CPE)
+    </p>
+    <p >
+      Sponsored by DSCA, the new, 
+      <a :href="communityData.trainingSiteUser" target="_blank"
+        >SAF User Class</a
+      >
+      will be offered on September 27, 2022 (9am-4pm) (6 CPE)
     </p>
     <p >
       Please RSVP if you are interested in attending or have additional
@@ -49,7 +46,7 @@
       >RSVP!</v-btn
     >
     <p >
-      A note on prerequisites: For the basic class, knowledge of basic
+      A note on prerequisites: For the Beginner Security Automation Developer Class, knowledge of basic
       programming concepts, modern language conventions and some working
       experience with a modern language (e.g., Ruby, Python, Go, etc) is useful.
       (Inspec is a Ruby Domain-specific language (DSL)). To become more familiar
