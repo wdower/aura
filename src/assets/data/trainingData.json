@@ -14,7 +14,7 @@
         ]
       },
       {
-        "name" : "Inspec Profile Developer Class",
+        "name" : "Beginner Security Automation Developer Class",
         "course_link" : "https://mitre-saf-training.netlify.app/",
         "desc" : "This course teaches the basics of writing and running InSpec test profiles. Note that basic knowledge of Ruby and CLI familiarity is required.",
         "video_link" : "https://www.youtube.com/watch?v=KOQbSI6wWUk&list=PLkTApXQou_8LsM26IAZjQsdaDNvsnTWjB&index=1",
@@ -25,7 +25,7 @@
         ]
       },
       {
-        "name" : "Inspec Advanced Developer Class",
+        "name" : "Advanced Security Automation Developer Class",
         "course_link" : "https://mitre-saf-training.netlify.app/",
         "desc" : "This course provides a deep dive into InSpec's advanced capabilities.",
         "video_link" : "https://www.youtube.com/watch?v=hkd0fbk9efo&list=PLkTApXQou_8LsM26IAZjQsdaDNvsnTWjB&index=3",
