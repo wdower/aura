@@ -1,30 +1,30 @@
 <template>
   <div>
-    <h2 class="mb-2">RSVP – SAF training for September 2022!</h2>
+    <h2 class="mb-2">RSVP – SAF training Fall 2022!</h2>
     <p >
       We’re happy to announce plans to provide training to SAF Users and Developers. 
       These are free, on-line virtual, hands-on, instructor-led 1-2 day classes.
-    </p>
-    <p >
-      Sponsored by MDA, the
-      <a :href="communityData.trainingSiteBasic" target="_blank"
-        >Beginner Security Automation Developer Class</a
-      >
-      will again be offered on September 15-16, 2022 (9am-4pm both days) (12 CPE)
-    </p>
-    <p >
-      Sponsored by MDA, the
-      <a :href="communityData.trainingSiteAdvanced" target="_blank"
-        >follow-on Advanced Security Automation Developer Class</a
-      >
-      will again be offered on September 29-30, 2022 (9am-4pm both days) (12 CPE)
     </p>
     <p >
       Sponsored by DSCA, the new, 
       <a :href="communityData.trainingSiteUser" target="_blank"
         >SAF User Class</a
       >
-      will be offered on September 27, 2022 (9am-4pm) (6 CPE)
+      will be offered in-person only on September 27, 2022 (9am-4pm) (6 CPE)
+    </p>
+    <p >
+      Sponsored by MDA, the
+      <a :href="communityData.trainingSiteBasic" target="_blank"
+        >Beginner Security Automation Developer Class</a
+      >
+      will again be offered in October/November (9am-4pm both days) (12 CPE). Check back in for more details to come!
+    </p>
+    <p >
+      Sponsored by MDA, the
+      <a :href="communityData.trainingSiteAdvanced" target="_blank"
+        >follow-on Advanced Security Automation Developer Class</a
+      >
+      will again be offered in October/November (9am-4pm both days) (12 CPE). Check back in for more details to come!
     </p>
     <p >
       Please RSVP if you are interested in attending or have additional

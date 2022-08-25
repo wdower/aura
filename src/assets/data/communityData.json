@@ -7,9 +7,9 @@
   "website": "https://saf.mitre.org",
   "programWebsite": "",
   "communityHashTags": ["MTIRESAF", "MITRE_SAF"],
-  "trainingSiteUser": "https://mitre-saf-training.netlify.app/",
-  "trainingSiteBasic" : "https://mitre-saf-training.netlify.app/",
-  "trainingSiteAdvanced" : "https://mitre-saf-training.netlify.app/",
+  "trainingSiteUser": "https://mitre.github.io/saf-training/",
+  "trainingSiteBasic" : "https://mitre.github.io/saf-training/",
+  "trainingSiteAdvanced" : "https://mitre.github.io/saf-training/",
   "trainingSignUpLink" : "https://forms.office.com/g/BG97DqngPg",
   "trainingContactEmail" : "saf@groups.mitre.org",
   "socialLinks": [
