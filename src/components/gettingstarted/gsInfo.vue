@@ -33,7 +33,8 @@
       </p>
       <v-img
         v-if="item.image"
-        :src="require('@/assets/img/tools/' + item.image)"
+        :src="require(`@/assets/img/tools/${typeof item.image === 'string' ? item.image : item.image.file}`)"
+        :alt="typeof item.image === 'string' || !item.image.alt ? undefined : item.image.alt"
       />
     </div>
   </v-container>

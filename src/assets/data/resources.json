@@ -27,11 +27,14 @@
         }
       ]
     },
-    { 
+    {
       "name": "SAF Tooling at a Glance",
       "tag": "tools",
-      "desc": "The SAF is a framework, not one tool. So, to figure out what tools you need in your environment, take a look at this diagram. The SAF helps piece all of this together. For more information getting tools into your environment look more at InSpec, SAF-CLI, and Heimdall.",
-      "image": "SAF_Tools_Security_Validation.png" 
+      "desc": "The SAF is a framework, not one tool. So, to figure out what tools you need in your environment, take a look at this diagram. The SAF helps piece all of this together. For more information getting tools into your environment look more at InSpec, SAF CLI, and Heimdall.",
+      "image": {
+        "file": "SAF_Tools_Security_Validation.png",
+        "alt": "The SAF consists of five pillars: 'Plan', 'Harden', 'Validate', 'Normalize', and 'Visualize'.  Under 'Plan', you can use Vulcan to develop implementation specific guidance from more general guides (like STIGs from SRGs) or choose to use pre-existing guidance like DISA STIGs, CIS Benchmarks, or Vendor Security Checklists.  Under 'Harden', you can use infrastructure-as-code or configuration management software like Ansible, Progress Chef, Puppet, or Terraform - many scripts are already created and available for use.  Under 'Validate', you can use the SAF CLI to generate InSpec profiles stubs that can then be refined manually.  Once you have created those profiles or found the many profiles already created and available for use, you can use InSpec to generate Heimdall Data Format (HDF) output via the JSON reporter.  You can also use various other 3rd party tools to get scan results.  Under 'Normalize', you can take the results of those 3rd party scans and convert them into HDF via the SAF CLI.  Under 'Visualize', you can view HDF within Heimdall.  You can also use the SAF CLI to generate and view other information such as how the results compare against previously generated thresholds.  Additionally, you can view scan results in other applications after conversion and upload by the SAF CLI or Emasser."
+      }
     },
     {
       "name": "Mature DevSecOps Best Practices",
@@ -82,11 +85,11 @@
         }
       ]
     },
-    { 
+    {
       "name": "How is InSpec deployed?",
       "tag": "deploy",
       "desc": "It is intended and recommended that InSpec be installed on a \"runner\" host (such as a DevOps orchestration server, an administrative management system, or a developer's workstation/laptop) and run against the target remotely. However, InSpec may be deployed in various ways depending on the needs of the user:",
-      "image": "inspec-runner.png" 
+      "image": "inspec-runner.png"
     }
   ],
   "videos": [
