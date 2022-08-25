@@ -10,21 +10,21 @@
       <a :href="communityData.trainingSiteUser" target="_blank"
         >SAF User Class</a
       >
-      will be offered in-person only on September 27, 2022 (9am-4pm) (6 CPE)
+      will be offered in-person only on September 27, 2022 (9am-4pm ET) (6 CPE)
     </p>
     <p >
       Sponsored by MDA, the
       <a :href="communityData.trainingSiteBasic" target="_blank"
         >Beginner Security Automation Developer Class</a
       >
-      will again be offered in October/November (9am-4pm both days) (12 CPE). Check back in for more details to come!
+      will again be offered in October/November (10am-5pm ET both days) (12 CPE). Check back in for more details to come!
     </p>
     <p >
       Sponsored by MDA, the
       <a :href="communityData.trainingSiteAdvanced" target="_blank"
         >follow-on Advanced Security Automation Developer Class</a
       >
-      will again be offered in October/November (9am-4pm both days) (12 CPE). Check back in for more details to come!
+      will again be offered in October/November (10am-5pm ET both days) (12 CPE). Check back in for more details to come!
     </p>
     <p >
       Please RSVP if you are interested in attending or have additional
