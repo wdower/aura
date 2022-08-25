@@ -17,14 +17,14 @@
       <a :href="communityData.trainingSiteBasic" target="_blank"
         >Beginner Security Automation Developer Class</a
       >
-      will again be offered in October/November (10am-5pm ET both days) (12 CPE). Check back in for more details to come!
+      will again be offered in late Fall (10am-5pm ET both days) (12 CPE). Check back in for more details to come!
     </p>
     <p >
       Sponsored by MDA, the
       <a :href="communityData.trainingSiteAdvanced" target="_blank"
         >follow-on Advanced Security Automation Developer Class</a
       >
-      will again be offered in October/November (10am-5pm ET both days) (12 CPE). Check back in for more details to come!
+      will again be offered in late Fall (10am-5pm ET both days) (12 CPE). Check back in for more details to come!
     </p>
     <p >
       Please RSVP if you are interested in attending or have additional
