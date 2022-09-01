@@ -9,21 +9,6 @@
           "name" : "How To Use The MITRE SAF",
           "desc" : "",
           "download_link" : "How to Use the MITRE SAF.pdf"
-        },
-        {
-          "name" : "Getting Started With InSpec",
-          "desc" : "",
-          "internal_link" : "inspec"
-        },
-        {
-          "name" : "SAF-CLI",
-          "desc" : "",
-          "internal_link" : "inspec"
-        },
-        {
-          "name" : "How To Use The MITRE SAF",
-          "desc" : "",
-          "internal_link" : "inspec"
         }
       ]
     },
