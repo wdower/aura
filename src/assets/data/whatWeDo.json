@@ -135,13 +135,13 @@
         {
           "name": "InSpec Delta",
           "link": "",
-          "desc": "Gem aiming to make the maintenance of InSpec profiles representing security benchmarks less of a maintenance burden by providing helpful command line tools",
+          "desc": "Update an existing InSpec profile in-place with new XCCDF metadata",
           "icon": "",
-          "png" : "inspec-delta-icon",
+          "png" : "saf_logo",
           "app_link": "",
           "app_svg": "app",
-          "doc_link": "https://engineering.cerner.com/blog/inspec-delta/",
-          "github_link": "https://github.com/cerner/inspec_delta",
+          "doc_link": "https://github.com/mitre/saf#generate",
+          "github_link": "",
           "svg": "",
           "tools": "",
           "border_color": "#4783B2"
