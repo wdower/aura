@@ -31,6 +31,21 @@
       "gitHash": "2000fb9978a92b81739c4db661dae356dd5d5918"
     },
     {
+      "shortName": "Red Hat 8 STIG",
+      "longName": "Red Hat 8 STIG",
+      "link": "https://github.com/mitre/redhat-enterprise-linux-8-stig-baseline",
+      "platform_name": "InSpec",
+      "platform_img": "inspec-blue-back-border.svg",
+      "platform_link": "https://docs.chef.io/inspec/",
+      "sponsor_name" : "MITRE SAF",
+      "sponsor_img": "saf_logo.png",
+      "sponsor_link": "/",
+      "category": [
+        "Operating Systems"
+      ],
+      "gitHash": "0"
+    },
+    {
       "shortName": "Red Hat CVE Scan",
       "longName": "Red Hat CVE Vulnerability Scan",
       "link": "https://github.com/CMSgov/redhat-enterprise-linux-cve-vulnerability-scan-baseline",
