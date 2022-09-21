@@ -256,6 +256,21 @@
       "gitHash": "218bafbd15c619695dfe9716ef054debf3a0f80d"
     },
     {
+      "shortName": "NGINX SRG Baseline",
+      "longName": "NGINX SRG Baseline",
+      "link": "https://github.com/mitre/nginx-srg-baseline",
+      "platform_name": "InSpec",
+      "platform_img": "inspec-blue-back-border.svg",
+      "platform_link": "https://docs.chef.io/inspec/",
+      "sponsor_name" : "MITRE SAF",
+      "sponsor_img": "saf_logo.png",
+      "sponsor_link": "/",
+      "category": [
+        "Web Servers"
+      ],
+      "gitHash": "0"
+    },
+    {
       "shortName": "Oracle MySQL 5.7 CIS",
       "longName": "Oracle MySQL Enterprise Edition 5.7 CIS",
       "link": "https://github.com/mitre/oracle-mysql-ee-5.7-cis-baseline",
