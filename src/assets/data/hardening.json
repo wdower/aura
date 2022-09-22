@@ -109,6 +109,18 @@
       "category": ["Web Servers"]
     },
     {
+      "shortName": "NGINX STIG Ready",
+      "longName": "NGINX STIG Ready",
+      "link": "https://github.com/mitre/ansible-nginx-stigready-hardening",
+      "platform_name": "Ansible",
+      "platform_img": "ansible.svg",
+      "platform_link": "https://www.ansible.com/",
+      "sponsor_name" : "MITRE SAF",
+      "sponsor_img": "saf_logo.png",
+      "sponsor_link": "/",
+      "category": ["Web Servers"]
+    },
+    {
       "shortName": "IIS Sites STIG",
       "longName": "IIS Sites STIG",
       "link": "https://github.com/mitre/chef-iis-site-hardening",
