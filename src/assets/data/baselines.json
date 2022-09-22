@@ -67,8 +67,8 @@
       "platform_name": "InSpec",
       "platform_img": "inspec-blue-back-border.svg",
       "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "MITRE SAF",
-      "sponsor_img": "saf_logo.png",
+      "sponsor_name" : "VMWare",
+      "sponsor_img": "vmware-logo.png",
       "sponsor_link": "/",
       "category": [
         "Operating Systems"
@@ -82,8 +82,8 @@
       "platform_name": "InSpec",
       "platform_img": "inspec-blue-back-border.svg",
       "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "MITRE SAF",
-      "sponsor_img": "saf_logo.png",
+      "sponsor_name" : "VMWare",
+      "sponsor_img": "vmware-logo.png",
       "sponsor_link": "/",
       "category": [
         "Operating Systems"
@@ -97,8 +97,8 @@
       "platform_name": "InSpec",
       "platform_img": "inspec-blue-back-border.svg",
       "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "MITRE SAF",
-      "sponsor_img": "saf_logo.png",
+      "sponsor_name" : "VMWare",
+      "sponsor_img": "vmware-logo.png",
       "sponsor_link": "/",
       "category": [
         "Operating Systems"
@@ -142,8 +142,8 @@
       "platform_name": "InSpec",
       "platform_img": "inspec-blue-back-border.svg",
       "platform_link": "https://docs.chef.io/inspec/",
-      "sponsor_name" : "MITRE SAF",
-      "sponsor_img": "saf_logo.png",
+      "sponsor_name" : "VMWare",
+      "sponsor_img": "vmware-logo.png",
       "sponsor_link": "/",
       "category": [
         "Operating Systems"
@@ -254,6 +254,21 @@
         "Web Servers"
       ],
       "gitHash": "218bafbd15c619695dfe9716ef054debf3a0f80d"
+    },
+    {
+      "shortName": "NGINX STIG Ready Baseline",
+      "longName": "NGINX STIG Ready Baseline",
+      "link": "https://github.com/mitre/nginx-stigready-baseline",
+      "platform_name": "InSpec",
+      "platform_img": "inspec-blue-back-border.svg",
+      "platform_link": "https://docs.chef.io/inspec/",
+      "sponsor_name" : "MITRE SAF",
+      "sponsor_img": "saf_logo.png",
+      "sponsor_link": "/",
+      "category": [
+        "Web Servers"
+      ],
+      "gitHash": "0"
     },
     {
       "shortName": "Oracle MySQL 5.7 CIS",
