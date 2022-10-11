@@ -12,6 +12,10 @@ jobs:
     steps:
       - name: Pull down this repo
         uses: actions/checkout@v2
+      - name: Use Node.js 14.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14.x'
       - name: Ingest and process data
         uses: docker://mitre/saf-baseline-ingestion
       - name: Commit processed data
