@@ -44,6 +44,16 @@
       "name": "Refactr",
       "link": "https://www.refactr.it/",
       "img": "sophos.png"
+    },
+    {
+      "name": "Progress Chef",
+      "link": "https://www.chef.io/",
+      "img": "Progress_Chef_Primary_Logo_Stacked.png"
+    },
+    {
+      "name": "Lockheed Martin",
+      "link": "https://www.lockheedmartin.com/",
+      "img": "lockheed-martin-logo.png"
     }
   ]
 }
