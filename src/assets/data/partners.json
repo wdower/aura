@@ -1,6 +1,11 @@
 {
   "Commercial Partners": [
     {
+      "name": "Progress Chef",
+      "link": "https://www.chef.io/",
+      "img": "Progress_Chef_Primary_Logo_Stacked.png"
+    },
+    {
       "name": "VmWare",
       "link": "https://www.vmware.com",
       "img": "vmware.png"
@@ -44,11 +49,6 @@
       "name": "Refactr",
       "link": "https://www.refactr.it/",
       "img": "sophos.png"
-    },
-    {
-      "name": "Progress Chef",
-      "link": "https://www.chef.io/",
-      "img": "Progress_Chef_Primary_Logo_Stacked.png"
     },
     {
       "name": "Lockheed Martin",
