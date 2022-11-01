@@ -271,9 +271,9 @@
       "platform_name": "Ansible",
       "platform_img": "ansible.svg",
       "platform_link": "https://www.ansible.com/",
-      "sponsor_name" : "Ansible Lockdown",
-      "sponsor_img": "ansible-lockdown.png",
-      "sponsor_link": "https://www.lockdownenterprise.com/",
+      "sponsor_name" : "DISA",
+      "sponsor_img": "DISA.png",
+      "sponsor_link": "https://www.disa.mil/",
       "category": ["Operating Systems"] 
     },
     {
@@ -358,6 +358,30 @@
       "sponsor_name" : "Ansible Lockdown",
       "sponsor_img": "ansible-lockdown.png",
       "sponsor_link": "https://www.lockdownenterprise.com/",
+      "category": ["Operating Systems"] 
+    },
+    {
+      "shortName": "Ubuntu 18.04 LTS STIG",
+      "longName": "Ubuntu 18.04 LTS STIG",
+      "link": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CAN_Ubuntu_18-04_LTS_V2R9_STIG_Ansible.zip",
+      "platform_name": "Ansible",
+      "platform_img": "ansible.svg",
+      "platform_link": "https://www.ansible.com/",
+      "sponsor_name" : "DISA",
+      "sponsor_img": "DISA.png",
+      "sponsor_link": "https://www.disa.mil/",
+      "category": ["Operating Systems"] 
+    },
+    {
+      "shortName": "Ubuntu 20.04 LTS STIG",
+      "longName": "Ubuntu 20.04 LTS STIG",
+      "link": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CAN_Ubuntu_20-04_LTS_V1R6_STIG_Ansible.zip",
+      "platform_name": "Ansible",
+      "platform_img": "ansible.svg",
+      "platform_link": "https://www.ansible.com/",
+      "sponsor_name" : "DISA",
+      "sponsor_img": "DISA.png",
+      "sponsor_link": "https://www.disa.mil/",
       "category": ["Operating Systems"] 
     },
     {
@@ -568,9 +592,21 @@
       "shortName": "Windows 2016 STIG",
       "longName": "Windows 2016 r2 STIG",
       "link": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Server_2016_V1R3_STIG_PowerShell_DSC.zip",
-      "platform_name": "Powershell",
-      "platform_img": "powershell.svg",
-      "platform_link": "https://docs.microsoft.com/en-us/powershell/",
+      "platform_name": "PowerCLI",
+      "platform_img": "powershell-logo.svg",
+      "platform_link": "https://developer.vmware.com/powercli",
+      "sponsor_name" : "DISA",
+      "sponsor_img": "DISA.png",
+      "sponsor_link": "https://www.disa.mil/",
+      "category": ["Operating Systems"]
+    },
+    {
+      "shortName": "SUSE 15 STIG",
+      "longName": "SUSE 15 STIG",
+      "link": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SLES_15_V1R8_STIG_Ansible.zip",
+      "platform_name": "Ansible",
+      "platform_img": "ansible.svg",
+      "platform_link": "https://www.ansible.com/",
       "sponsor_name" : "DISA",
       "sponsor_img": "DISA.png",
       "sponsor_link": "https://www.disa.mil/",
