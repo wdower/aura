@@ -611,6 +611,18 @@
       "sponsor_img": "dod-cyber-exchange.svg",
       "sponsor_link": "https://www.disa.mil/",
       "category": ["Operating Systems"]
+    },
+    {
+      "shortName": "Keycloak Custom Modules",
+      "longName": "Keycloak Custom Modules",
+      "link": "https://github.com/mitre/keycloak-custom-policies",
+      "platform_name": "Keycloak",
+      "platform_img": "keycloak.svg",
+      "platform_link": "https://www.keycloak.org/",
+      "sponsor_name" : "MITRE SAF",
+      "sponsor_img": "saf_logo.png",
+      "sponsor_link": "/",
+      "category": ["Application Logic"]
     }
   ]
 }
