@@ -272,7 +272,7 @@
       "platform_img": "ansible.svg",
       "platform_link": "https://www.ansible.com/",
       "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
+      "sponsor_img": "dod-cyber-exchange.svg",
       "sponsor_link": "https://www.disa.mil/",
       "category": ["Operating Systems"] 
     },
@@ -368,7 +368,7 @@
       "platform_img": "ansible.svg",
       "platform_link": "https://www.ansible.com/",
       "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
+      "sponsor_img": "dod-cyber-exchange.svg",
       "sponsor_link": "https://www.disa.mil/",
       "category": ["Operating Systems"] 
     },
@@ -380,7 +380,7 @@
       "platform_img": "ansible.svg",
       "platform_link": "https://www.ansible.com/",
       "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
+      "sponsor_img": "dod-cyber-exchange.svg",
       "sponsor_link": "https://www.disa.mil/",
       "category": ["Operating Systems"] 
     },
@@ -536,7 +536,7 @@
       "platform_img": "ansible.svg",
       "platform_link": "https://www.ansible.com/",
       "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
+      "sponsor_img": "dod-cyber-exchange.svg",
       "sponsor_link": "https://www.disa.mil/",
       "category": ["Network"]
     },
@@ -548,7 +548,7 @@
       "platform_img": "ansible.svg",
       "platform_link": "https://www.ansible.com/",
       "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
+      "sponsor_img": "dod-cyber-exchange.svg",
       "sponsor_link": "https://www.disa.mil/",
       "category": ["Network"]
     },
@@ -560,7 +560,7 @@
       "platform_img": "ansible.svg",
       "platform_link": "https://www.ansible.com/",
       "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
+      "sponsor_img": "dod-cyber-exchange.svg",
       "sponsor_link": "https://www.disa.mil/",
       "category": ["Virtual Platforms"]
     },
@@ -572,7 +572,7 @@
       "platform_img": "ansible.svg",
       "platform_link": "https://www.ansible.com/",
       "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
+      "sponsor_img": "dod-cyber-exchange.svg",
       "sponsor_link": "https://www.disa.mil/",
       "category": ["Network"]
     },
@@ -584,7 +584,7 @@
       "platform_img": "ansible.svg",
       "platform_link": "https://www.ansible.com/",
       "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
+      "sponsor_img": "dod-cyber-exchange.svg",
       "sponsor_link": "https://www.disa.mil/",
       "category": ["Virtual Platforms"]
     },
@@ -596,7 +596,7 @@
       "platform_img": "powershell-logo.svg",
       "platform_link": "https://developer.vmware.com/powercli",
       "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
+      "sponsor_img": "dod-cyber-exchange.svg",
       "sponsor_link": "https://www.disa.mil/",
       "category": ["Operating Systems"]
     },
@@ -608,7 +608,7 @@
       "platform_img": "ansible.svg",
       "platform_link": "https://www.ansible.com/",
       "sponsor_name" : "DISA",
-      "sponsor_img": "DISA.png",
+      "sponsor_img": "dod-cyber-exchange.svg",
       "sponsor_link": "https://www.disa.mil/",
       "category": ["Operating Systems"]
     }
