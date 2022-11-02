@@ -271,9 +271,9 @@
       "platform_name": "Ansible",
       "platform_img": "ansible.svg",
       "platform_link": "https://www.ansible.com/",
-      "sponsor_name" : "DISA",
-      "sponsor_img": "dod-cyber-exchange.svg",
-      "sponsor_link": "https://www.disa.mil/",
+      "sponsor_name" : "Ansible Lockdown",
+      "sponsor_img": "ansible-lockdown.png",
+      "sponsor_link": "https://www.lockdownenterprise.com/",
       "category": ["Operating Systems"] 
     },
     {
