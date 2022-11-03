@@ -623,6 +623,56 @@
       "sponsor_img": "saf_logo.png",
       "sponsor_link": "/",
       "category": ["Application Logic"]
+    },
+    {
+      "shortName": "Windows Server 2016 STIG",
+      "longName": "Windows Server 2016 STIG",
+      "link": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Server_2016_V1R3_STIG_Chef.zip",
+      "platform_name": "Chef",
+      "platform_img": "chef-2.svg",
+      "platform_link": "https://www.chef.io/",
+      "sponsor_name" : "DISA",
+      "sponsor_img": "dod-cyber-exchange.svg",
+      "sponsor_link": "https://www.disa.mil/",
+      "category": ["Operating Systems"]
+    },
+    {
+      "shortName": "Windows Server 2019 STIG",
+      "longName": "Windows Server 2019 STIG",
+      "link": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Server_2019_V1R2_STIG_Chef.zip",
+      "platform_name": "Chef",
+      "platform_img": "chef-2.svg",
+      "platform_link": "https://www.chef.io/",
+      "sponsor_name" : "DISA",
+      "sponsor_img": "dod-cyber-exchange.svg",
+      "sponsor_link": "https://www.disa.mil/",
+      "category": ["Operating Systems"]
+    },
+    {
+      "shortName": "Red Hat 7 STIG",
+      "longName": "Red Hat 7 STIG",
+      "link": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RHEL_7_V3R8_STIG_Chef.zip",
+      "platform_name": "Chef",
+      "platform_img": "chef-2.svg",
+      "platform_link": "https://www.chef.io/",
+      "sponsor_name" : "DISA",
+      "sponsor_img": "dod-cyber-exchange.svg",
+      "sponsor_link": "https://www.disa.mil/",
+      "category": ["Operating Systems"]
+    },
+    {
+      "shortName": "Red Hat 8 STIG",
+      "longName": "Red Hat 8 STIG",
+      "link": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RHEL_8_V1R7_STIG_Chef.zip",
+      "platform_name": "Chef",
+      "platform_img": "chef-2.svg",
+      "platform_link": "https://www.chef.io/",
+      "sponsor_name" : "DISA",
+      "sponsor_img": "dod-cyber-exchange.svg",
+      "sponsor_link": "https://www.disa.mil/",
+      "category": ["Operating Systems"]
     }
+
+    
   ]
 }
